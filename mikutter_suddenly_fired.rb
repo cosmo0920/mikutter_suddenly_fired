@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+# Please forgive me Akkiesoft!! ヽ('ω')ﾉ三ヽ('ω')ﾉもうしわけねぇもうしわけねぇ
+
 # Original: https://github.com/Akkiesoft/mikutter_suddenly_death
 # http://d.hatena.ne.jp/ux00ff/20120721/1342878538
 class String
