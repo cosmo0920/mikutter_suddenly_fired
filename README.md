@@ -3,8 +3,8 @@ mikutter_suddenly_fired
 
 なにこれ
 ---
-A CHI CHI A CHI 燃えてるんだろうか
-燃えろ
+A CHI CHI A CHI 燃えてるんだろうか  
+燃えてるんだろうね〜
 
 つかいかた
 ---
