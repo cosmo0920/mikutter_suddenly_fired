@@ -47,7 +47,7 @@ Plugin.create :mikutter_suddenly_fired do
 					line += "　"
 					i += 1
 				end
-				str += "＞　#{line}　＜\n"
+				str += "🔥　#{line}　🔥\n"
 			end
 			str += line3 + "🔥"
 
