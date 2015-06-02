@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 mikutter_suddenly_death
 =====================
 
@@ -22,3 +23,7 @@ mikutterでいつでも突然の死を迎えられるプラグインです。
 Special Thanks
 ---
 としぁ氏（飲み会でいきなり聞いてすんませんでした(☝ ՞ਊ ՞)☝）
+=======
+# mikutter_suddenly_fired
+A CHI CHI A CHI 燃えてるんだろうか
+>>>>>>> 6db571a592cbf9319cc34cbf76bbb3eda6b90814
